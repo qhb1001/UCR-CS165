@@ -24,5 +24,5 @@ Rather than directly using the simple MD5 crypt algorithm, which is too dangerou
 
 # Additional Tips
 
-1.  Check out my notes about the `binascii` package and encoding method. You will reduce the chance to be stuck by the same bug I encountered before. 
+1.  Check out my [notes](https://notes-hongbo.top/2020/01/20/hashlib-md5-Understand-hexlify-and-unhexlify/) about the `binascii` package and encoding method. You will reduce the chance to be stuck by the same bug I encountered before. 
 2.  The algorithm is supported by the fully coverage unit test. You can find the unit test file in `algorithm` folder. 
